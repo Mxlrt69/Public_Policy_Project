@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Données locales — ne pas envoyer sur GitHub
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.arrow
+*.pkl
+*.pickle
+
+# Modèles et résultats générés
+*.joblib
+*.pt
+*.pth
+*.onnx
+/outputs/
