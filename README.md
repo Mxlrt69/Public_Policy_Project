@@ -1,4 +1,4 @@
-# Data Science Project
+# Public Policy Project
 
 ## SMT Master
 
