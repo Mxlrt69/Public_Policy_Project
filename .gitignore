@@ -234,3 +234,4 @@ __marimo__/
 *.pth
 *.onnx
 /outputs/
+transit_cache.json
