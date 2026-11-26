@@ -220,7 +220,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Données locales — ne pas envoyer sur GitHub
-*.csv
 *.tsv
 *.parquet
 *.feather
